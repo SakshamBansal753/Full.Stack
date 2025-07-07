@@ -1,0 +1,17 @@
+{
+  "Saksham": {
+     "Password": "xyz",
+     "email": "@xyz",
+     "Follower":9,
+        "Following":7,
+        "Profile":"https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg",
+        "Bio":"Developer",
+        "Postpic":"",
+        "post_content":"It is the post content",
+        "Posts": [
+
+        ],
+
+        "UserName": "Saksham"
+  }
+}
